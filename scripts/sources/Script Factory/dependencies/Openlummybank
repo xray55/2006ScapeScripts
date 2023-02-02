@@ -1,0 +1,13 @@
+Type(::stuck,1)
+Sleep(1500)
+Interact-with-entity-by-location(3217,3218,1)
+Interact-with-entity-by-location(3215,3211,1)
+Interact-with-entity-by-location(3204,3207,1)
+Sleep(15000)
+Interact-with-entity-by-location(3204,3207,1)
+Interact-with-entity-by-location(3204,3207,2)
+Interact-with-entity-by-ID(494,3)
+Sleep(6000)
+Type(::stuck,1)
+Sleep(1500)
+

@@ -1,0 +1,14 @@
+Change-Tick-Speed(10)
+If Item-is-in-Inventory(441)
+If Detect-Animation-ID(-1,50,0)
+Inventory-item-interact(441,5)
+Endif
+Endif
+IfNot Item-is-in-Inventory(441)
+Change-Tick-Speed(200)
+If Entity-is-around(2092)
+If Detect-Animation-ID(-1,50,0)
+Interact-with-entity-by-ID(2092,1)
+Endif
+Endif
+Endif

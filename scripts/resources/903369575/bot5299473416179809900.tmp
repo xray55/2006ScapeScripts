@@ -1,0 +1,11 @@
+{
+    "name": "2006rebotted",
+    "author": "2006Scape",
+    "version": 1.0,
+    "client-class": "Game",
+    "locations":{
+        "provider": "C:\Users\zachm\2006Scape\Provider.jar",
+        "server": "C:\Users\zachm\2006Scape\Client-2.8.1.jar",
+        "hooks": "http://bdn.parabot.org/data/hooks/carmeuses/2006rebotted_hooks.xml"
+    }
+}

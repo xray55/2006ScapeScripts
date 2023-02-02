@@ -1,0 +1,8 @@
+If Entity-is-around(81,397,1767,1768)
+Interact-with-entity-by-ID(81,397,1767,1768,1)
+If In-Combat()
+Sleep(2500)
+Take-Ground-item(526,1944,1203)
+Sleep(2500)
+Endif
+Sleep(2500)

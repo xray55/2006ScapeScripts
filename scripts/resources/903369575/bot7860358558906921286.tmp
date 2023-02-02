@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: travis
+Build-Jdk: 1.7.0_151
+Created-By: Apache Maven 3.5.2
+Main-Class: org.parabot.Landing
+Archiver-Version: Plexus Archiver
+

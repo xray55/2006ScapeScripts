@@ -1,0 +1,11 @@
+{
+    "name": "localhost",
+    "author": "Bladeantor",
+    "version": 1.0,
+    "client-class": "LocalGame",
+    "locations":{
+        "provider": "This_PC/Downloads/Parabot11.jar",
+        "server": "This_PC/Downloads/2006rebotted.jar",
+        "hooks": "http://bdn.parabot.org/data/hooks/carmeuses/2006rebotted_hooks.xml"
+    }
+}
