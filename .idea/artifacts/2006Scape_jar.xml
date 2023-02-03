@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2006Scape:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2006Scape_jar</output-path>
+    <root id="archive" name="2006Scape.jar">
+      <element id="module-output" name="2006Scape" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/317-api-minified-1.21.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/client-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/parabot/internal-api/1.53.1/internal-api-1.53.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/parabot/317-api-minified/1.21.5/317-api-minified-1.21.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/parabot/client/2.8.1/client-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-all/5.0.4/asm-all-5.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
